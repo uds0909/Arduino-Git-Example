@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-// ESP12 has one LED attached to GPIO2
+// ESP12 has the GPIO2 attched to the LED besides the antenna
 const int   LED = 2;
 
 void setup() {
