@@ -6,4 +6,4 @@
 <p>Here is the youtube that shows how and what to install in order to develop the Arduino program for the ESP8266 with PlatformIO/VSCode
 [![ESP8266 Arduino Programming with PlatformIO/VSCode](https://user-images.githubusercontent.com/13171662/133163531-85abe579-82d1-472d-a868-d6cdcf292b4e.jpg)](https://youtu.be/rT6PiDliol8 "ESP8266 Arduino Programming with PlatformIO/VSCode")
 
-  [![Everything Is AWESOME](https://user-images.githubusercontent.com/13171662/133163531-85abe579-82d1-472d-a868-d6cdcf292b4e.jpg)](https://youtu.be/rT6PiDliol8 "Everything Is AWESOME")
+  [![Everything Is AWESOME](https://user-images.githubusercontent.com/13171662/133163531-85abe579-82d1-472d-a868-d6cdcf292b4e.jpg)](https://youtu.be/rT6PiDliol8 "ESP8266 Arduino Programming with PlatformIO/VSCode")
