@@ -1,6 +1,6 @@
 # LED
 
-<p>PlatformIO와 VSCode를 이용하여 ESP8266 모듈에 Arduino 프로그래밍을 시작하고 싶은 사람들으 위한 샘플입니다.</p>
+<p>PlatformIO와 VSCode를 이용하여 ESP8266 모듈에 Arduino 프로그래밍을 시작하고 싶은 사람들을 위한 샘플입니다.</p>
 
 <p>기본적인 PIO/VSCode 환경을 빠르게 설정하고 익히고 싶다면, 아래 유투브가 도움이 될 것입니다.</p>
 
